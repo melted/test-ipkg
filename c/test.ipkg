@@ -1,0 +1,5 @@
+package test
+
+modules = Main
+main = main
+executable = test

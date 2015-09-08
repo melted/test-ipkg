@@ -1,0 +1,6 @@
+package test
+
+opts = "--codegen javascript"
+modules = Main
+main = main
+executable = test.js
